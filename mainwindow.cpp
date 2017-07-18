@@ -10,7 +10,6 @@
 #include <QRegExp>
 #include <QMap>
 #include <QMultiMap>
-#include <windows.h>
 #include <QTextCodec>
 #include <algorithm>
 #include <QMessageBox>
